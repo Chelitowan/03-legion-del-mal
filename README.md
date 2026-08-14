@@ -33,6 +33,7 @@ Somos la alianza definitiva de supervillanos. Mientras los héroes se dividen en
 - **Loki** — Engaño, ilusiones y diplomacia hostil
 - **Catwoman** — Robos de alta precisión
 - **Venom** — Fuerza bruta y operaciones de intimidación
+- **Harley Quinn** — Psicología del terror y manipulación emocional
 
 ## Reglas de la Legión
 
