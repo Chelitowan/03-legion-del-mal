@@ -9,3 +9,9 @@
 3. **Nombre:** El Destructor  
    **Habilidad:** Fuerza sobrehumana y resistencia a daños físicos.  
    **Debilidad:** Su temperamento explosivo lo hace predecible en situaciones de estrés.
+4. **Nombre:** La Hechicera  
+   **Habilidad:** Magia oscura y manipulación de elementos.  
+   **Debilidad:** Su dependencia de los hechizos la deja indefensa sin ellos.
+5. **Nombre:** El Ingeniero del Caos  
+   **Habilidad:** Creación de dispositivos explosivos y trampas mortales.  
+   **Debilidad:** Su obsesión por la perfección lo hace perder tiempo en detalles innecesarios.
