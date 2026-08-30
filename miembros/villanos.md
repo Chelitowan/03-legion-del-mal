@@ -15,3 +15,8 @@
 5. **Nombre:** El Ingeniero del Caos  
    **Habilidad:** Creación de dispositivos explosivos y trampas mortales.  
    **Debilidad:** Su obsesión por la perfección lo hace perder tiempo en detalles innecesarios.
+
+
+   ## Notas
+
+   estos enemigos son parte de la legión del mal y representan una amenaza significativa para cualquier héroe que se cruce en su camino. Cada uno tiene habilidades únicas que los hacen peligrosos, pero también tienen debilidades que pueden ser explotadas por aquellos que buscan derrotarlos.
