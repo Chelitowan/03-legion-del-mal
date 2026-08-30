@@ -15,6 +15,8 @@
 5. **Nombre:** El Ingeniero del Caos  
    **Habilidad:** Creación de dispositivos explosivos y trampas mortales.  
    **Debilidad:** Su obsesión por la perfección lo hace perder tiempo en detalles innecesarios.
+6. **Nombre:** La Pantera  
+   **Habilidad:** Agilidad y velocidad sobrehumana, además de habilidades de combate cuerpo a cuerpo.
 
 
    ## Notas
